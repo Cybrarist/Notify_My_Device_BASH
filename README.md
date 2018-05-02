@@ -5,3 +5,5 @@ This code has been Modified From Notify's Code (https://github.com/mashlol/notif
 To register The app use (-r|--register APIkey) then the key will be saved in a file for future use.
 
 To send a notification use ( -t|--text "your message").
+
+And (-n APIkey) to save the token to the file, please notice that using (-r) will have the same result as (-n)
